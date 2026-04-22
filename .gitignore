@@ -1,0 +1,12 @@
+
+---
+
+# .gitignore File
+
+Create:
+
+```text
+*.class
+.settings/
+bin/
+.vscode/
