@@ -1,20 +1,32 @@
-# 🍔 Online Food Ordering System (Java)
+# 🍔 Online Food Ordering System
 
-A console-based food ordering system built using Java and OOP concepts.
+## 📌 Overview
 
-## 🚀 Features
+A console-based food ordering system built using Java and Object-Oriented Programming principles.
 
-* Veg / Non-Veg Food Ordering
-* Bill Generation
-* Custom Exception Handling
-* Clean Package Structure
-* OOP Based Design
+---
+
+## 🧠 Key Highlights
+
+* Clean modular architecture
+* Exception handling implementation
+* OOP principles (inheritance, polymorphism)
+
+---
+
+## ⚙️ Features
+
+* Veg / Non-Veg ordering
+* Bill generation
+* Structured package design
+
+---
 
 ## 🛠 Tech Stack
 
-* Java
-* OOP Concepts
-* VS Code
+Java • OOP
+
+---
 
 ## 📂 Project Structure
 
@@ -24,13 +36,18 @@ src/food/util
 src/food/exceptions
 src/food/main
 
-## ▶️ How to Run
+---
+
+## ▶️ Run Project
 
 ```bash
 javac src/food/main/FoodApp.java
 java food.main.FoodApp
 ```
 
+---
+
 ## 👨‍💻 Author
 
 Nitin Kumar
+
